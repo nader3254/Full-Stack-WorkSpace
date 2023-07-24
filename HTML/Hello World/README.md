@@ -7,5 +7,5 @@
 
 ## 2- html tags 
 
-### &lt;h1&gt is first heading title 
-### &lt;p&gt  is a paragraph text
+### &lt;h1> is first heading title 
+### &lt;p>  is a paragraph text
