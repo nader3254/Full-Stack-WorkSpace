@@ -6,7 +6,7 @@
     <em>	Defines emphasized text 
     <i>	Defines a part of text in an alternate voice or mood
     <small>	Defines smaller text
-    <strong>	Defines important text
+    <strong> Defines important text
     <sub>	Defines subscripted text
     <sup>	Defines superscripted text
     <ins>	Defines inserted text
